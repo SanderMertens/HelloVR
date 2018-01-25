@@ -2,8 +2,8 @@
     "id": "HelloVR",
     "type": "application",
     "value": {
-        "description": "Making the world a better place",
-        "author": "Arthur Dent",
+        "description": "Demo application for using tags and VR UI",
+        "author": "Sander Mertens",
         "version": "1.0.0",
         "language": "c",
         "use": ["tags"]
