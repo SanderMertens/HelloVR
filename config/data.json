@@ -1,0 +1,12 @@
+[
+  {
+    "id": "data/p",
+    "type": "HelloVR/Point",
+    "value": {"x": -2, "y": 2}
+  },
+  {
+    "id": "data/q",
+    "type": "HelloVR/Point",
+    "value": {"x": 2, "y": 2}
+  }
+]

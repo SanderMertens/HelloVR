@@ -1,0 +1,5 @@
+in application HelloVR
+
+struct Point:/
+    x: int32, tags={tags/position/x}
+    y: int32, tags={tags/position/y}
